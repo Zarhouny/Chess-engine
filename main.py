@@ -445,7 +445,7 @@ def check_game_status(board, turn, ep_square, moved_status_dict):
     return ""
 
 screen = pygame.display.set_mode((BOARD_SIZE, BOARD_SIZE + PANEL_HEIGHT))
-pygame.display.set_caption("Chess Engine Backend Core")
+pygame.display.set_caption("Chess engine but it's woke")
 clock = pygame.time.Clock()
 running = True
 
