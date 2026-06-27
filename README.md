@@ -25,7 +25,7 @@ A modular, lightweight Chess Engine built from scratch in Python using **Pygame*
 ## 🏁 Getting Started
 (Download python 3.8 or higher)
 ```py
-git clone [https://github.com/zarhouny/chess-engine.git](https://github.com/zarhouny/chess-engine.git)
+git clone https://github.com/zarhouny/chess-engine.git
 ```
   ( if you don't have GIT installed, just download as ZIP instead. )
 
